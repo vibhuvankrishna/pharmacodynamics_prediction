@@ -1,0 +1,2 @@
+Dataset,Descriptors,Model,Problem,R2,RMSE,MAE,Spearman
+ppbr_az,mordred,rnn,regression,-0.0010033845901489258,18.70100940285168,13.666707992553711,0.03893377231880539
