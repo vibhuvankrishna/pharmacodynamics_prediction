@@ -1,0 +1,3 @@
+Built an end-to-end ADMET prediction pipeline training CNN, RNN, LSTM models across 7 molecular descriptor combinations on 8 datasets, producing 168 models using ** MLflow** for extensive performance analysis and logging.
+* Optimised the pipeline for ** GPU** rendering by leveraging ** WSL 2 Linux** virtual machines with CUDA ** cuDNN**, ensuring stable, reproducible, and ** XLA-safe** execution across heterogeneous training workloads.
+* https://dagshub.com/vibhuvankrishna/vdss-admet-dl.mlflow/#/experiments/2/runs?searchFilter=&orderByKey=attributes.start_time&orderByAsc=false&startTime=ALL&lifecycleFilter=Active&modelVersionFilter=All+Runs&datasetsFilter=W10%3D&compareRunsMode=TABLE
